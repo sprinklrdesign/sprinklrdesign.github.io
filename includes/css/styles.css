@@ -125,7 +125,16 @@ a:hover {
 
 }
 
+.thankyou
+{
+  font-size:32px;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 700;
+  color: #ffffff;
+  text-align: center;
+  padding-bottom: 120px;
 
+}
 
 .split {
   background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='15' height='15'><circle cx='5' cy='5' r='1' fill='#ffffff' /></svg>")  repeat;
