@@ -115,6 +115,16 @@ a:hover {
 
 }
 
+a:hover {
+  font-size:20px;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 400;
+  color:#47B4FB;
+  letter-spacing: .8px;
+  text-decoration: none;
+
+}
+
 
 
 .split {
